@@ -1,5 +1,4 @@
 <project>
-
   
   <path id="project.class.path"> 
     <pathelement location="build"/>
